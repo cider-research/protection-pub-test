@@ -1,3 +1,3 @@
 # protection-pub-test
 
-it's a very very greatest repo
+it's a good repo
